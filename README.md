@@ -9,7 +9,8 @@ I am a Computer Science and Engineering student from Sanjay Ghodawat University,
 - **Front-End**: HTML, CSS, React, 
 - **Back-End**: Node.js, Express
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, VSCode
+- **Tools**: Git, VSCode,Postman
+- **Cloud-Hosting**: Vercel,Netlify,render
 
 
 ## 🎓 Education
