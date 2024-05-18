@@ -18,7 +18,7 @@ I am a Computer Science and Engineering student from Sanjay Ghodawat University,
   - **Year**: 2023
 
 ## 🌱 Currently Learning
-- Full-Stack Development at Geekter
+- Full-Stack Development at Geekster
 
 ## 📫 Get in Touch
 - **LinkedIn**: (https://www.linkedin.com/in/deepa-nikade/)]
