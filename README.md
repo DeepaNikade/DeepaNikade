@@ -6,10 +6,10 @@ I am a Computer Science and Engineering student from Sanjay Ghodawat University,
 
 ## ⚡Skills
 - **Languages**: JavaScript,Java, C++
-- **Front-End**: HTML, CSS, React, Angular
-- **Back-End**: Node.js, Express, Django
+- **Front-End**: HTML, CSS, React, 
+- **Back-End**: Node.js, Express
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Kubernetes
+- **Tools**: Git, VSCode
 
 
 ## 🎓 Education
